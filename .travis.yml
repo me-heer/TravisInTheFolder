@@ -1,2 +1,4 @@
+before_install:
+  - chmod +x TestingTravis/scripts/testing_travis.sh
 language: java
 script: ./TestingTravis/scripts/testing_travis.sh
