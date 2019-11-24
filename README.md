@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.com/mformihir/TravisInTheFolder.svg?branch=master)](https://travis-ci.com/mformihir/TravisInTheFolder)
 
 Here, I set up Travis CI for a project inside a subfolder.
+
 Note: The .travis.yml file must always be at the root of your repository.
 
 There is a better script to configure builds for every subfolder, but in most cases, that won't be useful as not ALL the subfolders will be my projects.
